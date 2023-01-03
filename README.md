@@ -1,0 +1,1 @@
+This is the collection of code snippets for data structures and algorithms
